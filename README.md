@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="ShadowHertz" width="100%"></p>
+
 # Hi, I'm Desmond 👋
 
 Security engineer · Builder of tools that make security work less tedious
