@@ -21,7 +21,7 @@ I work on network and system security, with a focus on **boundary security archi
 | Project | What it does |
 |---|---|
 | [**TIDY//OS**](https://github.com/ShadowHertz/tidy-os) | Python utility that sorts files and labels Gmail automatically |
-| [**Signal Mesh**](https://github.com/ShadowHertz/sec-walpapers) | Interactive particle-network desktop wallpaper with a live clock, for Lively / Wallpaper Engine |
+| [**Signal Mesh**](https://github.com/ShadowHertz/sec-wallpapers) | Interactive particle-network desktop wallpaper with a live clock, for Lively / Wallpaper Engine |
 | **Sentinel** *(writeup coming)* | Raspberry Pi 4 cyberdeck for RF/wireless scanning, with a hardened Linux and SSH setup |
 
 ### 📜 Certifications
