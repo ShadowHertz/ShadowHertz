@@ -36,6 +36,11 @@ I work on network and system security, with a focus on **boundary security archi
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kismet](https://img.shields.io/badge/Kismet-2E7D32?style=flat-square)
+![Forescout](https://img.shields.io/badge/Forescout-6A2C91?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable-Nessus-00A9CE?style=flat-square)
+![Nexpose](https://img.shields.io/badge/Rapid7-Nexpose-F26722?style=flat-square)
+![COMSEC](https://img.shields.io/badge/COMSEC-4B5320?style=flat-square)
 
 ---
 
