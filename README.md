@@ -24,6 +24,7 @@ I work on network and system security, with a focus on **boundary security archi
 ![ACAS](https://img.shields.io/badge/DISA-ACAS%20Operator-1F3A60?style=flat-square)
 ![Trellix 201](https://img.shields.io/badge/Trellix-ESS%20201-555555?style=flat-square)
 ![Trellix 301](https://img.shields.io/badge/Trellix-ESS%20301-555555?style=flat-square)
+![T2C2](https://img.shields.io/badge/T2C2-SATCOM%20Maintainer-4B5320?style=flat-square)
 
 🎓 B.S. Cybersecurity & Information Assurance *(in progress)*
 📚 Currently studying for: **Forescout Certified Associate (FSCA)**
