@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170">
+<style>
+.h{font:600 13px monospace;fill:#2DD4BF;letter-spacing:3px}
+.v{font:700 34px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#E6FFFB}
+.l{font:500 12px monospace;fill:#7FA9B8;letter-spacing:2px}
+.s{font:500 11px monospace;fill:#2DD4BF;fill-opacity:.7}
+.dot{animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:.3}50%{opacity:1}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B14"/><stop offset="1" stop-color="#0B1E2D"/></linearGradient></defs>
+<rect width="1200" height="170" rx="10" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="1199" height="169" rx="10" fill="none" stroke="#2DD4BF" stroke-opacity=".25"/>
+<circle class="dot" cx="30" cy="30" r="4" fill="#2DD4BF"/>
+<text x="44" y="35" class="h">SYSTEM STATUS // PUBLIC</text>
+<text x="1170" y="35" text-anchor="end" class="s">LAST SYNC: NOV 2026</text>
+<line x1="30" y1="50" x2="1170" y2="50" stroke="#2DD4BF" stroke-opacity=".15"/>
+<g transform="translate(30,0)">
+  <text x="0" y="100" class="v">2</text><text x="0" y="125" class="l">PUBLIC REPOS</text>
+</g>
+<line x1="250" y1="70" x2="250" y2="135" stroke="#2DD4BF" stroke-opacity=".15"/>
+<g transform="translate(280,0)">
+  <text x="0" y="100" class="v">6</text><text x="0" y="125" class="l">PUBLIC COMMITS</text>
+</g>
+<line x1="500" y1="70" x2="500" y2="135" stroke="#2DD4BF" stroke-opacity=".15"/>
+<g transform="translate(530,0)">
+  <text x="0" y="100" class="v">Python</text><text x="0" y="125" class="l">PRIMARY LANGUAGE</text>
+</g>
+<line x1="790" y1="70" x2="790" y2="135" stroke="#2DD4BF" stroke-opacity=".15"/>
+<g transform="translate(820,0)">
+  <text x="0" y="78" class="l">LANGUAGE MIX</text>
+  <rect x="0" y="92" width="350" height="10" rx="5" fill="#3776AB"/>
+  <circle cx="6" cy="125" r="5" fill="#3776AB"/><text x="18" y="129" class="s">Python 100%</text>
+  <text x="350" y="129" text-anchor="end" class="s">MORE REPOS INBOUND ▸</text>
+</g>
+</svg>

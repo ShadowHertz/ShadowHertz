@@ -15,6 +15,8 @@ I work on network and system security, with a focus on **boundary security archi
 - Endpoint security & vulnerability management
 - Raspberry Pi / RF / wireless security labs
 
+<p align="center"><img src="assets/stats.svg" alt="Public GitHub stats" width="100%"></p>
+
 ### 🛠️ Projects
 | Project | What it does |
 |---|---|
